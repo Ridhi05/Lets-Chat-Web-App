@@ -1,0 +1,12 @@
+body{
+    background-color:olivedrab;
+    text-align: center;
+}
+div{
+    background-color:lightgreen;
+    border-radius: 15px;
+    float: none;
+}
+#label{
+   -color: antiquewhite; 
+}
